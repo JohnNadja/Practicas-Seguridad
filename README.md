@@ -129,7 +129,7 @@ En **MITRE ATT&CK** (que es una organización de ciberseguridad importante), se 
 #### Instrucciones
 
 1. Una vez creada la Máquina Virtual y, estando dentro del recurso, se irá al apartado de ***Configuración*** ➡ **Redes** (se encuentra en el panel izquierdo) y mostrará que *Esta interfaz de red no contiene grupos de seguridad*.
-    ![redVM](/images/redVM.png)
+    ![redVM](/images/redVM.gif)
 
 2. Ahora se requiere crear el recurso de ***Grupos de Seguridad de Red*** en el Portal de Azure. Se selecciona la opción de **Crear** y se ingresa los datos:
     - Parámtros en Datos básicos:
